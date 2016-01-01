@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"expanded":true,"name":"最初の拠点","order":1,"parentId":0,"scrollX":1035.4285714285713,"scrollY":1165.7142857142856},
+{"id":2,"expanded":false,"name":"普通の町","order":3,"parentId":0,"scrollX":1009.7142857142857,"scrollY":1380},
+{"id":3,"expanded":false,"name":"仲間編成","order":2,"parentId":1,"scrollX":642.8571428571428,"scrollY":553.7142857142857},
+{"id":4,"expanded":false,"name":"廃墟の民家","order":4,"parentId":0,"scrollX":642.8571428571428,"scrollY":553.7142857142857},
+{"id":5,"expanded":false,"name":"エンカウントテスト","order":5,"parentId":0,"scrollX":832,"scrollY":640}
+]
